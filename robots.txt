@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gostermelikdiplomasatinal.github.io/sitemap.xml
